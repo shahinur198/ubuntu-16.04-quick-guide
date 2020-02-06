@@ -1,5 +1,8 @@
 # ubuntu-16.04-quick-guide
 
+# ubuntu install
+https://www.linuxtechi.com/ubuntu-18-04-lts-desktop-installation-guide-screenshots/
+
 # Chrome install
 ```
 wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
